@@ -46,7 +46,6 @@ jacoco {
 
 // TODO Configure Jacoco
 jacocoTestReport {
-    dependsOn test
     reports {
         xml.required = true
         csv.required = true
