@@ -39,7 +39,7 @@ shadowJar {
     archiveName rootProject.name + '-' + rootProject.version + '.jar'
 }
 
-// TODO Specify Jacoco version
+// TODO Specify Jacoco version done
 jacoco {
     toolVersion = "0.8.9"
 }
